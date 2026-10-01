@@ -2,8 +2,8 @@
 
 A Computer Vision project that converts document images into clean scanned documents and extracts text using OCR.
 
-**Author:** Mohit Poonia  
-**Registration No.:** 24BAI10966  
+**Author:** Meenal Nanagwal 
+**Registration No.:** 24BAI10390
 **Course:** Computer Vision
 
 ## Features
