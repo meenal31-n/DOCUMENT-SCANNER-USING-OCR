@@ -32,7 +32,7 @@ Document_scanner_using_ocr/
 ├── requirements.txt
 └── statement.md
 Setup
-git clone https://github.com/mohitpoonia21/Document_scanner_using_ocr.git
+git clone https://github.com/meenal31-n/DOCUMENT-SCANNER-USING-OCR.git
 cd Document_scanner_using_ocr
 pip install -r requirements.txt
 Run
